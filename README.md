@@ -1,6 +1,6 @@
 # tylerzeman.github.io Code Refactor
 
-Table of Contents
+## Table of Contents
 
 --[Description](#Description)
 
