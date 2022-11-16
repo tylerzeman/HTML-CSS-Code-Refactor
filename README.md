@@ -18,3 +18,4 @@ https://tylerzeman.github.io/HTML-CSS-Code-Refactor/
 
 ## Screenshots
 
+![Screenshot](/assets/images/screenshot.jpg?raw=true)
